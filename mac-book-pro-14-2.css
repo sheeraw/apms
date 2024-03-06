@@ -1,0 +1,133 @@
+.azure-sky-solid-color-backgrou {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.macbook-pro-14-2-child {
+  position: absolute;
+  top: 243px;
+  left: 103px;
+  border-radius: var(--br-xl);
+  background-color: rgba(162, 199, 226, 0.66);
+  width: 1302px;
+  height: 634px;
+}
+.maths {
+  position: absolute;
+  top: 541px;
+  left: 368px;
+  font-weight: 800;
+}
+.maths1,
+.maths2,
+.maths3,
+.maths4,
+.maths5 {
+  position: absolute;
+  top: 737px;
+  left: 1055px;
+  font-weight: 800;
+}
+.maths2,
+.maths3,
+.maths4,
+.maths5 {
+  top: 639px;
+}
+.maths3,
+.maths4,
+.maths5 {
+  top: 541px;
+}
+.maths4,
+.maths5 {
+  top: 737px;
+  left: 368px;
+}
+.maths5 {
+  top: 639px;
+}
+.macbook-pro-14-2-item {
+  position: absolute;
+  top: 748px;
+  left: 1013px;
+  background-color: var(--color-gainsboro);
+  width: 20px;
+  height: 20px;
+}
+.macbook-pro-14-2-inner {
+  position: absolute;
+  top: 649px;
+  left: 326px;
+  width: 20px;
+  height: 20px;
+}
+.macbook-pro-14-2-child1,
+.macbook-pro-14-2-child2,
+.macbook-pro-14-2-child3,
+.macbook-pro-14-2-child4 {
+  position: absolute;
+  top: 649px;
+  left: 1013px;
+  background-color: var(--color-gainsboro);
+  width: 20px;
+  height: 20px;
+}
+.macbook-pro-14-2-child2,
+.macbook-pro-14-2-child3,
+.macbook-pro-14-2-child4 {
+  top: 550px;
+}
+.macbook-pro-14-2-child3,
+.macbook-pro-14-2-child4 {
+  left: 326px;
+}
+.macbook-pro-14-2-child4 {
+  top: 748px;
+}
+.adm-no {
+  position: absolute;
+  top: 306px;
+  left: 961px;
+  font-weight: 800;
+  color: var(--color-teal-100);
+}
+.macbook-pro-14-2-child5,
+.macbook-pro-14-2-child6 {
+  position: absolute;
+  top: 362px;
+  left: 184px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 303px;
+  height: 69px;
+}
+.macbook-pro-14-2-child6 {
+  left: 871px;
+}
+.full-name,
+.subjects {
+  position: absolute;
+  top: 306px;
+  left: 260px;
+  font-weight: 800;
+  color: var(--color-teal-100);
+}
+.subjects {
+  top: 471px;
+  left: 685px;
+}
+.macbook-pro-14-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

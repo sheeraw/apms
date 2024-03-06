@@ -1,0 +1,147 @@
+.premium-photo-top-view-of-no1,
+.school-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.school-2-icon {
+  top: 25px;
+  left: 37px;
+  width: 103.5px;
+  height: 75px;
+}
+.macbook-pro-14-4-child {
+  position: absolute;
+  top: 32px;
+  left: 153px;
+  background-color: var(--color-black);
+  width: 5px;
+  height: 62px;
+}
+.macbook-pro-14-4-item {
+  position: absolute;
+  top: 171px;
+  left: 158px;
+  border-radius: 10px;
+  background-color: rgba(46, 132, 151, 0.27);
+  width: 766px;
+  height: 662px;
+}
+.english,
+.kiswahili {
+  position: absolute;
+  top: 375px;
+  left: 240px;
+  font-weight: 800;
+}
+.kiswahili {
+  top: 447px;
+  color: var(--color-gray-100);
+}
+.maths6 {
+  top: 303px;
+  color: var(--color-gray-300);
+}
+.cre,
+.maths6,
+.science,
+.social-studies {
+  position: absolute;
+  left: 240px;
+  font-weight: 800;
+}
+.science {
+  top: 513px;
+  color: var(--color-gray-100);
+}
+.cre,
+.social-studies {
+  top: 650px;
+}
+.social-studies {
+  top: 578px;
+  color: rgba(0, 0, 0, 0.83);
+}
+.macbook-pro-14-4-child1,
+.macbook-pro-14-4-inner {
+  position: absolute;
+  top: 300px;
+  left: 629px;
+  background-color: var(--color-gainsboro);
+  width: 70px;
+  height: 50px;
+}
+.macbook-pro-14-4-child1 {
+  top: 576px;
+}
+.macbook-pro-14-4-child2,
+.macbook-pro-14-4-child3,
+.macbook-pro-14-4-child4,
+.macbook-pro-14-4-child5 {
+  position: absolute;
+  top: 644px;
+  left: 629px;
+  background-color: var(--color-gainsboro);
+  width: 70px;
+  height: 50px;
+}
+.macbook-pro-14-4-child3,
+.macbook-pro-14-4-child4,
+.macbook-pro-14-4-child5 {
+  top: 510px;
+}
+.macbook-pro-14-4-child4,
+.macbook-pro-14-4-child5 {
+  top: 444px;
+}
+.macbook-pro-14-4-child5 {
+  top: 372px;
+}
+.macbook-pro-14-4-child6 {
+  position: absolute;
+  top: 736px;
+  left: 589px;
+  border-radius: var(--br-xl);
+  background-color: rgba(46, 132, 151, 0.47);
+  width: 150px;
+  height: 50px;
+}
+.input-results,
+.submit {
+  position: absolute;
+  font-weight: 800;
+}
+.submit {
+  top: 746px;
+  left: 616px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+}
+.input-results {
+  top: 214px;
+  left: 369px;
+  font-size: var(--font-size-13xl);
+  color: rgba(0, 0, 0, 0.88);
+}
+.notepad-1-icon {
+  position: absolute;
+  top: 209px;
+  left: 314px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.macbook-pro-14-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

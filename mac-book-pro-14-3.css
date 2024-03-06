@@ -1,0 +1,123 @@
+.premium-photo-top-view-of-no {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.gmail-logo-1-icon,
+.linkedin-1-icon,
+.school-1-icon,
+.twitter-sign-1-icon {
+  position: absolute;
+  top: 933px;
+  left: 673px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.linkedin-1-icon,
+.school-1-icon,
+.twitter-sign-1-icon {
+  left: 741px;
+}
+.school-1-icon,
+.twitter-sign-1-icon {
+  left: 605px;
+}
+.school-1-icon {
+  top: 21px;
+  left: 12px;
+  width: 98px;
+  height: 75px;
+}
+.macbook-pro-14-3-child {
+  position: absolute;
+  top: 26px;
+  left: 118px;
+  background-color: var(--color-black);
+  width: 5px;
+  height: 64px;
+}
+.unlocking-academic-excellence {
+  margin: 0;
+}
+.unlocking-academic-excellence-container {
+  position: absolute;
+  top: 35px;
+  left: 151px;
+  font-weight: 800;
+  color: #0f6679;
+}
+.macbook-pro-14-3-inner,
+.macbook-pro-14-3-item {
+  position: absolute;
+  top: 238px;
+  left: 118px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-cadetblue-200);
+  width: 258px;
+  height: 79px;
+}
+.macbook-pro-14-3-inner {
+  top: 451px;
+  left: 357px;
+  width: 205px;
+}
+.finance,
+.new-student {
+  position: absolute;
+  top: 263px;
+  left: 204px;
+  font-weight: 800;
+}
+.finance {
+  top: 476px;
+  left: 445px;
+}
+.macbook-pro-14-3-child1 {
+  position: absolute;
+  top: 657px;
+  left: 635px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-cadetblue-200);
+  width: 193px;
+  height: 79px;
+}
+.results {
+  position: absolute;
+  top: 682px;
+  left: 711px;
+  font-weight: 800;
+}
+.income-1-icon,
+.notepad-2-icon,
+.plus-1-icon {
+  position: absolute;
+  top: 253px;
+  left: 137px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.income-1-icon,
+.notepad-2-icon {
+  top: 672px;
+  left: 648px;
+}
+.income-1-icon {
+  top: 466px;
+  left: 376px;
+}
+.macbook-pro-14-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-inter);
+}
